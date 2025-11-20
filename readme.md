@@ -83,6 +83,10 @@
 <p>Use <i>Format Selection</i> button to format SQL statements.</p>
 <img src="docs/images/FormatSelection.gif"/>
 
+<h2>Theme Support (SSMS 21+)</h2>
+<p>Since SSMS 21+ now support Themes, so does the plugin.</p>
+<img src="docs/images/Themes.png"/>
+
 <!-- CONTRIBUTING -->
 <h1>Contributing</h1>
 <p>Feel free to report an issue or suggest a feature. If you would like to introduce a functionality or fix an issue, please create a pull request.</p>
